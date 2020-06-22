@@ -2,10 +2,11 @@
 Drawing landmarks with cv2
 
 ## Requirements
-  opencv-python
-  numpy
-  collections
-  os
+  python3  
+  opencv-python  
+  numpy  
+  collections  
+  os  
 
 ## Landmark Extrarctor
 https://github.com/1adrianb/face-alignment
